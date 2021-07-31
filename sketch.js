@@ -116,7 +116,7 @@ function createDiamonds() {
   diamonds.addImage(diamondsImg);
   diamonds.scale=0.03;
   diamonds.velocityY = 3;
-  diamonds.lifetime = ;height /diamonds . velocityY;
+  diamonds.lifetime = height /diamonds . velocityY;
   diamondsG.add(diamonds);
 }
 }
